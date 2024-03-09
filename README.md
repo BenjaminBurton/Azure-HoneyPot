@@ -1,12 +1,13 @@
 # RDP FAIL WITH IP geolocation Data Information
 
-UNDER CONSTRUCTION
+# UNDER CONSTRUCTION
+
+
 ### Project Description
 
+## Language used
 
-Language used
+## Attacks from Threat Actors
 
-Attacks from Threat Actors
-
-World Map Displaying Attacks around the world
+## World Map Displaying Attacks around the world
 ![screenshot](ThreatActorsMap.png)
